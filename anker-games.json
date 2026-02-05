@@ -2,28 +2,44 @@
   "name": "AnkerGames",
   "downloads": [
     {
-      "title": "Cyberpunk 2077 v2.1 + Phantom Liberty (2023)",
+      "title": "YAPYAP (2026)",
       "uris": [
-        "magnet:?xt=urn:btih:EXEMPLOHASH1234567890"
+        "https://ankergames.net/download/yapyap" 
       ],
-      "uploadDate": "2024-05-10T23:00:00.000Z",
-      "fileSize": "92.4 GB",
-      "language": "PT-BR / EN",
-      "crack": "ELAMIGOS",
-      "platform": "PC",
-      "source": "AnkerGames"
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "797.9 MB"
     },
     {
-      "title": "Elden Ring Deluxe Edition v1.10 (2022)",
+      "title": "R.I.P. - Reincarnation Insurance Program (2026)",
       "uris": [
-        "magnet:?xt=urn:btih:OUTROHASH0987654321"
+        "https://ankergames.net/download/rip-reincarnation-insurance-program"
       ],
-      "uploadDate": "2024-04-28T23:00:00.000Z",
-      "fileSize": "54.8 GB",
-      "language": "PT-BR",
-      "crack": "RUNE",
-      "platform": "PC",
-      "source": "AnkerGames"
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "6.9 GB"
+    },
+    {
+      "title": "Half Sword (2026)",
+      "uris": [
+        "https://ankergames.net/download/half-sword"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "9.8 GB"
+    },
+    {
+      "title": "Cairn (2026)",
+      "uris": [
+        "https://ankergames.net/download/cairn"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "9.8 GB"
+    },
+    {
+      "title": "Len's Island (2025)",
+      "uris": [
+        "https://ankergames.net/download/lens-island"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "3.5 GB"
     }
   ]
 }
