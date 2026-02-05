@@ -1,0 +1,45 @@
+{
+  "name": "AnkerGames",
+  "downloads": [
+    {
+      "title": "YAPYAP (2026)",
+      "uris": [
+        "https://ankergames.net/download/yapyap" 
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "797.9 MB"
+    },
+    {
+      "title": "R.I.P. - Reincarnation Insurance Program (2026)",
+      "uris": [
+        "https://ankergames.net/download/rip-reincarnation-insurance-program"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "6.9 GB"
+    },
+    {
+      "title": "Half Sword (2026)",
+      "uris": [
+        "https://ankergames.net/download/half-sword"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "9.8 GB"
+    },
+    {
+      "title": "Cairn (2026)",
+      "uris": [
+        "https://ankergames.net/download/cairn"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "9.8 GB"
+    },
+    {
+      "title": "Len's Island (2025)",
+      "uris": [
+        "https://ankergames.net/download/lens-island"
+      ],
+      "uploadDate": "2026-02-05T12:00:00.000Z",
+      "fileSize": "3.5 GB"
+    }
+  ]
+}
