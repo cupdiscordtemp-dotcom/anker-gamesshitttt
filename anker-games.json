@@ -1,0 +1,52 @@
+{
+  "name": "AnkerGames",
+  "id": "ankergames",
+  "site": "https://ankergames.net",
+  "type": "games",
+  "language": "en",
+  "last_update": "2026-02-05",
+  "categories": [
+    "Action",
+    "Adventure",
+    "RPG",
+    "Simulation",
+    "Strategy",
+    "Horror",
+    "Indie",
+    "Casual",
+    "Open World",
+    "Sports"
+  ],
+  "games": [
+    {
+      "id": "game-slug",
+      "title": "Game Title",
+      "year": 2025,
+      "genres": ["Action", "Adventure"],
+      "developer": "Unknown",
+      "publisher": "Unknown",
+      "platform": "PC",
+      "release_type": "Pre-installed",
+      "size": "Unknown",
+      "image": "https://ankergames.net/path/to/image.jpg",
+      "page": "https://ankergames.net/game/game-slug",
+      "downloads": [
+        {
+          "host": "Pixeldrain",
+          "url": "PLACEHOLDER",
+          "type": "direct"
+        },
+        {
+          "host": "MediaFire",
+          "url": "PLACEHOLDER",
+          "type": "mirror"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "generated_by": "custom scraper",
+    "license": "metadata-only",
+    "notes": "Download URLs must be generated dynamically by the client or scraper."
+  }
+}
